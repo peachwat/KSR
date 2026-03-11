@@ -1,0 +1,6 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}\ProgID]
+@="dostawca.komponent.wersja"
+[HKEY_CURRENT_USER\Software\Classes\dostawca.komponent.wersja\CLSID]
+@="{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}"
